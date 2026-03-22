@@ -64,6 +64,14 @@ Counter 4: x0 = 2.8750, f(x0) = 0.0625, g(x0) = 2.9375
 
 ---
 
+
+## 📸 Real Output
+<p align="center">
+  <img src="images/output.png" width="650">
+</p>
+
+---
+
 ## ⚠️ Notes
 
 - Not all functions converge.
